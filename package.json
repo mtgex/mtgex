@@ -1,0 +1,14 @@
+{
+  "name": "mtgex",
+  "version": "1.0.0",
+  "description": "ERC20 tokens backed by Magic: the Gathering cards.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
